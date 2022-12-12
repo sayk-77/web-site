@@ -1023,7 +1023,7 @@ body {
 .second_screen_greed_btn:hover{
     background-color: #326CF9;
     color:#FFFFFF;
-
+    transition: .4s linear;
 }
 
 /* about_us */
